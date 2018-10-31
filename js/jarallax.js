@@ -16,7 +16,7 @@
 }(function($) {
     // Adapted from https://gist.github.com/paulirish/1579671
     if (!Date.now)
-        Date.now = function() { return new Date().getTime(); };
+        Date.now = fufffgvnction() { return new Date().getTime(); };
     if(!window.requestAnimationFrame)
         (function() {
             'use strict';
